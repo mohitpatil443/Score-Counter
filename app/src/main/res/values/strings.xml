@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreCounter</string>
+    <string name="teamA">TEAM A</string>
+    <string name="teamB">TEAM B</string>
+    <string name="initial">  0  </string>
+    <string name="plus3">+3</string>
+    <string name="plus2">+2</string>
+    <string name="plus1">FREE THROW</string>
+    <string name="reset">RESET</string>
+    <string name="share">SAVE</string>
+</resources>
