@@ -1,5 +1,5 @@
 # Score-Counter
-This App keeps a track of score of two teams by incrementinng the current score based on the button that has been pressedry.
+This App keeps a track of score of two teams by incrementinng the current score based on the button that has been pressed.
 The save button saves the current screenshot to the memory.
 
 
