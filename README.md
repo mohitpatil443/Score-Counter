@@ -9,7 +9,7 @@ The save button saves the current screenshot to the memory.
 
 
 
-<pre>                        <img src="screen.png" width="200" height="400">            </pre>
+<pre>                                 <img src="screen.png" width="200" height="400">            </pre>
 
 Below is a link to see the app live in action:<br>
-[![Watch the video](https://img.youtube.com/vi/Ges2libSxG0&t=3s/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ges2libSxG0&t=3s) 
+[![Watch the video](https://img.youtube.com/vi/Ges2libSxG0&t=3s/maxresdefault.jpg)](https://www.youtube.com/watch?v=9wKVlr25nG0) 
